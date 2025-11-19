@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Oliver Spencer, a software developer.
+
+I bring to life systems that can make living an easy thing.
+
+My main tech stack is React, Express, JavaScript and MongoDB.
 
 <!--
 **Oliver-Spen/Oliver-Spen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
